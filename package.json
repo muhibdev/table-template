@@ -37,8 +37,8 @@
     "url": "https://github.com/creativetimofficial/argon-dashboard/issues"
   },
   "devDependencies": {
-    "gulp": "^4.0.2",
-    "gulp-autoprefixer": "^7.0.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.1.0",
     "gulp-clean": "^0.4.0",
     "gulp-install": "^1.1.0",
     "gulp-open": "^3.0.1",
@@ -46,8 +46,5 @@
     "gulp-sourcemaps": "^2.6.5",
     "sass": "^1.49.9"
   },
-  "homepage": "http://creative-tim.com/product/argon-dashboard",
-  "dependencies": {
-    "create-react-app": "^5.0.0"
-  }
+  "homepage": "http://creative-tim.com/product/argon-dashboard"
 }
